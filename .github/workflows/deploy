@@ -1,18 +1,6 @@
 name: 🚀 Deploy Odoo 18 to Google Cloud
 
-on:
-  # Opción 1: Ejecutar automáticamente con cada push a main
-  push:
-    branches: [ main ]
-  
-  # Opción 2: Ejecutar con cada pull request
-  pull_request:
-    branches: [ main ]
-  
-  # Opción 3: Ejecutar en horario programado (cron)
-  schedule:
-    - cron: '0 9 * * 1'  # Cada lunes a las 9 AM UTC
-  
+on: 
   # Opción 4: Mantener la opción manual también
   workflow_dispatch:
     inputs:

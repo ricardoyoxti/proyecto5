@@ -90,7 +90,7 @@ Una vez completado el despliegue:
 .
 ├── .github/
 │   └── workflows/
-│       └── deploy-odoo-gcp.yml    # Workflow principal
+│       └── deploy.yml    # Workflow principal
 ├── startup-script.sh              # Script de instalación
 ├── README.md                      # Este archivo
 └── LICENSE                        # Licencia del proyecto
@@ -255,4 +255,4 @@ Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más detal
 
 ### 📊 Estado del Último Despliegue
 
-![Workflow Status](https://github.com/[TU_USUARIO]/[TU_REPO]/actions/workflows/deploy-odoo-gcp.yml/badge.svg)
+![Workflow Status](https://github.com/[TU_USUARIO]/[TU_REPO]/actions/workflows/deploy.yml/badge.svg)

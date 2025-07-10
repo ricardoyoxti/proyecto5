@@ -1,4 +1,4 @@
-# .github/workflows/deploy.yml
+# .github/workflows/deploy-odoo-gcp.yml
 name: 🚀 Deploy Odoo 18 to Google Cloud
 
 on:

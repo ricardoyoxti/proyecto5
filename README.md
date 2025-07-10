@@ -1,6 +1,6 @@
 # 🚀 Odoo 18 Deployment en Google Cloud Platform
 
-[![Deploy to GCP](https://img.shields.io/badge/Deploy%20to%20GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](../../actions/workflows/deploy-odoo-gcp.yml)
+[![Deploy to GCP](https://img.shields.io/badge/Deploy%20to%20GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](../../actions/workflows/deploy.yml)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Odoo Version](https://img.shields.io/badge/Odoo-18.0-875A7B.svg?style=for-the-badge&logo=odoo)](https://www.odoo.com)
 

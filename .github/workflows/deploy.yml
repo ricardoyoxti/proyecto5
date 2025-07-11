@@ -52,7 +52,7 @@ env:
   # Valores por defecto cuando se ejecuta automáticamente
   DEFAULT_INSTANCE_NAME: 'odoo'
   DEFAULT_MACHINE_TYPE: 'e2-medium'
-  DEFAULT_ZONE: 'us-central1-a'
+  DEFAULT_ZONE: 'southamerica-west1-a'
   DEFAULT_DISK_SIZE: '20'
 
 jobs:
